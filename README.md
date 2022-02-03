@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shamardn
-- 👀 I’m interested in Android Apps develping
+- 👋 Hi, I’m Wael Shamardn
+- 👀 I’m interested in Android Apps develping by Java
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me email: waelshamardn@yahoo.com --- mobile: 00201003527268
 
