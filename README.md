@@ -4,8 +4,7 @@
 - 📫 How to reach me 
 -     email: waelshamardn@yahoo.com 
 -     Mobile: 00201003527268
--      LinkedIn: 
--    www.linkedin.com/in/wael-shamardn
+-      LinkedIn:  www.linkedin.com/in/wael-shamardn
 
 <!---
 shamardn/shamardn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
