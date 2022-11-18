@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wael Shamardn
 - 👀 I’m interested in Android Apps develping by Kotlin
-- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me 
 -     email: waelshamardn@yahoo.com 
 -     Mobile: 00201003527268 
