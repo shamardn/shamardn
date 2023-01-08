@@ -1,15 +1,16 @@
+<p align="center">
+		<img alt="Wael Shamardn's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Wael">
+</p>
 
-- 👋 Hi, I’m Wael Shamardn
-- 👀 I’m interested in Android Apps develping by Kotlin
-- 📫 How to reach me 
--     email: waelshamardn@yahoo.com 
--     Mobile: 00201003527268 
--     Mobile: 00201060226260
+I'm an Android Developer, currently working on [Android](https://developer.android.com) Apps with [Kotlin](https://kotlinlang.org/). Besides that, I have started coding Android with [Java](https://docs.oracle.com/en/java/).I'm able to learn new technologies with enthusiasm. Self-learner and Team player with a team spirit associated with a can-do attitude.
 
-<!---
-shamardn/shamardn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🌱 I’m currently learning **Android Jetpack Compose**,and improve my knowledge of [Android Jetpack](https://developer.android.com/jetpack), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture).
+* 📫 How to reach me:
+
+    * Email: shamardn@gmail.com 
+    * Phone: +20 10 6022 6260
+* 😄 Pronouns: He/Him 👨🏻💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wael-shamardn/) 
