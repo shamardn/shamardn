@@ -8,9 +8,10 @@ I'm an Android Developer, currently working on [Android](https://developer.andro
 * 🌱 I’m currently learning **Android Jetpack Compose**,and improve my knowledge of [Android Jetpack](https://developer.android.com/jetpack), using MVVM with Google's recommended [Architecture Components](https://developer.android.com/topic/architecture).
 * 📫 How to reach me:
 
+    * Email: wael_shamardn@outlook.com
     * Email: shamardn@gmail.com 
     * Phone: +20 10 6022 6260
-* 😄 Pronouns: He/Him 👨🏻💻
+    * 😄 Pronouns: He/Him 👨🏻💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wael-shamardn/) 
