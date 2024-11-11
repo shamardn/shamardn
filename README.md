@@ -10,7 +10,7 @@ I'm an Android Developer, currently working on [Android](https://developer.andro
 
     * Email: wael_shamardn@outlook.com
     * Email: shamardn@gmail.com 
-    * Phone: +20 10 6022 6260
+    * Phone: +2 01003527268
     * 😄 Pronouns: He/Him 👨🏻💻
 
 ## 🌐 Socials:
